@@ -5,7 +5,7 @@
 
 
 
-## INTEGRANTES
+## Integrantes
 
 * Dennis Marquez Mazuchi
 * Kleber Lucas Azevedo Santos
